@@ -27,7 +27,7 @@ The Tampermonkey script injects a set of styles and emojis into the Microsoft Te
 
 ## Contributing
 
-Feel free to contribute to the project by forking the repository, making improvements, and submitting a pull request. Bug reports and feature requests are also welcome in the [issue tracker](https://github.com/example/microsoft-teams-emoji-extension/issues).
+Feel free to contribute to the project by forking the repository, making improvements, and submitting a pull request. Bug reports and feature requests are also welcome in the [issue tracker](https://github.com/m4gni/teams/issues).
 
 ## License
 
