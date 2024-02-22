@@ -4,10 +4,10 @@ Enhance your Microsoft Teams messaging experience with quick-access emojis remin
 
 ## Installation
 
-1. Ensure you have [Tampermonkey](https://www.tampermonkey.net/) installed in your browser.
-2. Create a new script in Tampermonkey.
-3. Copy and paste the provided script into the script editor.
-4. Save the script.
+1. Make sure you have [Tampermonkey](https://www.tampermonkey.net/) installed in your browser.
+2. Click [here](https://github.com/m4gni/teams/raw/main/teams.user.js) to open the script.
+3. Tampermonkey will automatically recognise the script and prompt you to install it.
+4. Confirm the installation.
 
 ## Features
 
@@ -18,9 +18,8 @@ Enhance your Microsoft Teams messaging experience with quick-access emojis remin
 ## Usage
 
 1. Open Microsoft Teams in your browser.
-2. Locate the new icon container added to the UI, displaying emojis.
-3. Click on the desired emoji to insert it into your message.
-4. Send your message as usual.
+2. Locate the new emoji tray added above the chat box.
+3. Click on the desired emoji to send it instantly.
 
 ## Technical Details
 
@@ -32,4 +31,4 @@ Feel free to contribute to the project by forking the repository, making improve
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/m4gni/teams/blob/main/LICENSE) file for details.
