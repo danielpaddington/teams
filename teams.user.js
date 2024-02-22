@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Microsoft Teams Emoji Extension
 // @namespace    http://tampermonkey.net/
-// @version      0.1
 // @description  Add easy to access WebEx style emojis to Microsoft Teams
-// @author       You
+// @author       Luca Magni
+// @version      1.0.0
+// @updateURL    https://raw.githubusercontent.com/m4gni/teams/main/teams.user.js
+// @downloadURL  https://raw.githubusercontent.com/m4gni/teams/main/teams.user.js
 // @match        https://teams.live.com/*
 // @grant        none
 // ==/UserScript==
