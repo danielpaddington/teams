@@ -20,7 +20,7 @@ Enhance your Microsoft Teams messaging experience with quick-access emojis remin
 ## Usage
 
 1. Open Microsoft Teams in your browser.
-2. Join a meeting/class
+2. Join a meeting/class.
 3. Locate the new emoji tray added above the chat box.
 4. Click on the desired emoji to send it instantly.
 
