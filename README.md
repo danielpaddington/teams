@@ -15,6 +15,8 @@ Enhance your Microsoft Teams messaging experience with quick-access emojis remin
 - **Thumbs Up and Down**: Express approval or disapproval with intuitive thumbs up and thumbs down emojis.
 - **Tick and Cross**: Easily convey agreement or disagreement using tick (✅) and cross (❎) emojis.
 
+![alt text](https://raw.githubusercontent.com/m4gni/teams/main/emoji_tray.jpg)
+
 ## Usage
 
 1. Open Microsoft Teams in your browser.
