@@ -6,8 +6,8 @@ Enhance your Microsoft Teams messaging experience with quick-access emojis remin
 
 ## Installation
 
-1. Make sure you have [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) installed in your browser.
-2. Click [here](https://github.com/m4gni/teams/raw/main/teams.user.js) to open the script.
+1. Make sure you have [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo){:target="_blank"} installed in your browser.
+2. Click [here](https://github.com/m4gni/teams/raw/main/teams.user.js){:target="_blank"} to open the script.
 3. Tampermonkey will automatically recognise the script and prompt you to install it.
 4. Confirm the installation.
 
