@@ -2,6 +2,8 @@
 
 Enhance your Microsoft Teams messaging experience with quick-access emojis reminiscent of WebEx style. This Tampermonkey extension adds a set of easily accessible emojis, including thumbs up, thumbs down, tick (yes), and cross (no), right at your fingertips.
 
+<img src="emoji_tray.jpg" width="350"/>
+
 ## Installation
 
 1. Make sure you have [Tampermonkey](https://www.tampermonkey.net/) installed in your browser.
@@ -14,8 +16,6 @@ Enhance your Microsoft Teams messaging experience with quick-access emojis remin
 - **WebEx Style Emojis**: Enjoy WebEx-style emojis for quick reactions in Microsoft Teams.
 - **Thumbs Up and Down**: Express approval or disapproval with intuitive thumbs up and thumbs down emojis.
 - **Tick and Cross**: Easily convey agreement or disagreement using tick (✅) and cross (❎) emojis.
-
-<img src="emoji_tray.jpg" width="350"/>
 
 ## Usage
 
