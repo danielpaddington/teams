@@ -10,6 +10,8 @@
 // @grant        none
 // ==/UserScript==
 
+// code is sufficient. could've been cleaner if i hadn't have thrown it together in a night.
+
 (function() {
     'use strict';
 
@@ -93,6 +95,6 @@
                     sendEmoji('tick_no');
                 });
             }
-        }, 1000);
+        }, 4000);
     });
 })();
